@@ -22,10 +22,16 @@ It is a complete **AI-powered content factory** that helps creators and brands:
 - Research AI & Transcript AI
 - *And MANY MORE*
 
+**AI Chatbot**
+-Controls all these tools
+-Your companion in Content creation field 
+-Smart and intelligent chatbot
+
 **ArcaFlow — Visual Automation Builder**
 - No-code workflow builder 
 - Create powerful automations: "YouTube → Shorts → Cross-post to Instagram & X"
 - Manual Drag & Drop + AI Chatbot mode to build flows
+-Pre-made Templates
 
 **Channel Automation**
 - Full automation across YouTube, X (Twitter), Instagram, TikTok, Telegram, WhatsApp & more
